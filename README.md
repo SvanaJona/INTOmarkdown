@@ -26,14 +26,18 @@ https://github.com/SvanaJona/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
 VLC Media Player
-''''''''Leyfi = GNU General Public License v2 or later and LGPL[5][6]
+
+	* Leyfi = GNU General Public License v2 or later and LGPL[5][6]
 	* Source code = https://videolan.org/vlc/download-sources.html
 Code::Blockc IDE
+
 	* Leyfi = GNU General Public License 3[1]
 	* Source code = http://www.codeblocks.org/downloads/25
 Audacity
+
 	* GNU General = Public License version 2.0 (GPLv2)
 	* Source code = audacity.sourceforge.net/download/source
+
 
 ## 5. Unnið með Git (2. hluti)
 
