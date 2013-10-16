@@ -26,7 +26,7 @@ https://github.com/SvanaJona/INTOPrufa
 ## 4. Uppsettur hugbúnaður
 
 VLC Media Player
-	* Leyfi = GNU General Public License v2 or later and LGPL[5][6]
+''''''''Leyfi = GNU General Public License v2 or later and LGPL[5][6]
 	* Source code = https://videolan.org/vlc/download-sources.html
 Code::Blockc IDE
 	* Leyfi = GNU General Public License 3[1]
