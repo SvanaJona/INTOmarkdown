@@ -7,6 +7,7 @@ Svanhildur Jóna Erlingsdóttir
 Ég valdi að dl. VirtualBox í stað þess að nota USB lykil og náði þá í Ubuntu í stað Linux Mint.  Uppsetningin
 gekk vel fyrir utan að fyrst þegar ég reyndi að starta Ubuntu þurfti ég að slökkva á USB 2.0 til að geta
 startað því og tókst svo ekki að fá upp gluggann sem biður um notendanafn og lykilorð fyrr en daginn eftir. 
+https://github.com/SvanaJona/INTOmarkdown/blob/master/Mynd_ubuntu.png
 
 ## 2. Uppsetning á vim && git
 
